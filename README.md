@@ -1,7 +1,7 @@
 # Free_TLandweb
-just include the free tool and web in workflow
+just include the free tool and web in workflows
 
-欢迎投稿，推荐或自荐文章/软件/资源/网站，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
+欢迎投稿，推荐或自荐文章/软件/资源/网站，请[提交 issue](https://github.com/sharmer156/Free_TLandweby/issues) 。
 
 ## 免费信息
 
