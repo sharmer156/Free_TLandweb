@@ -5,7 +5,7 @@ just include the free tool and web in workflows
 
 ## 免费信息
 
-- [免费电子书](https://github.com/sharmer156/Free_TLandweb)
+- [免费电子书](https://github.com/sharmer156/Free_TLandweb/books)
 - [免费音乐](docs/music.md)
 - [免费照片](docs/photos.md)
 - [免费图片](docs/img.md)
